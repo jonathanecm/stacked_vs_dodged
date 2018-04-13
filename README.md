@@ -1,2 +1,2 @@
-# stacked_vs_dodged
-Explore the effect that the context of the position of data has on people’s ability to find and extract information from plots accurately
+# stacked\_vs\_dodged
+We designed an experiment to explore the effect that the context of the position of data has on people’s ability to find and extract information from plots accurately. We collected the data through a survey developed in Qualtrics and deployed through Amazon’s Mechanical Turk. We cleaned and analyzed the data using R. We found that data in dodged bars facilitates more precise information estimation compared to presenting data in a stacked bar. 
